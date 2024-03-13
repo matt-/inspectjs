@@ -1,3 +1,3 @@
 # inspectJS
 
-![logo](./owl.svg)
+<img src="/owl.svg" width="100px" />
