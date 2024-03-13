@@ -1,1 +1,3 @@
-# inspectjs
+# inspectJS
+
+![logo](./owl.svg)
